@@ -1,10 +1,12 @@
 # Android-App-Development-Internship
 A collection of Android application projects and development activities completed during my Android App Development Internship using Kotlin and Android Studio.
 
-### 🖥️ Chatbot UI — Screenshot 1
+## 📱 Chatbot UI Screenshots
 
-<img src="images/Chatbot-UI.jpeg" alt="Chatbot UI Screenshot 1" width="600" height="350">
+### Screenshot 1
 
-### 🖥️ Chatbot UI — Screenshot 2
+<img src="Chatbot%20Ui.jpeg" alt="Chatbot UI Screenshot 1" width="350">
 
-<img src="images/Chatbot-UI-2.jpeg" alt="Chatbot UI Screenshot 2" width="600" height="350">
+### Screenshot 2
+
+<img src="Chatbot%20Ui%20(2).jpeg" alt="Chatbot UI Screenshot 2" width="350">
